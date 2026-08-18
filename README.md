@@ -1,4 +1,4 @@
-mkdir inclusia
+README.mdmkdir inclusia
 cd inclusia
 git init
 - 👋 Hi, I’m @Alexandralopezrivera
