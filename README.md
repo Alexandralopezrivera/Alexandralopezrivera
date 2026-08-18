@@ -1,3 +1,6 @@
+mkdir inclusia
+cd inclusia
+git init
 - 👋 Hi, I’m @Alexandralopezrivera
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
